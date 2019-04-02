@@ -1,2 +1,3 @@
-Voila notre nouveau fichier
+Voila notre nouveau fichier.
+Test pour voir si j'ai compris.
 
